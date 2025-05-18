@@ -1,0 +1,14 @@
+# docker-Specify the compose version
+version: "3"
+
+services:
+  app:
+    # build: .
+    image: pudding/docker-image-base:action-RSS-UT-Docker-Image-20250517.223221
+    tty: true
+    volumes: 
+      - ./output:/output/
+      - ./cache:/cache/
+      - ./config-list.js:/config-list.js
+      - ./config-json.js:/config-json.js
+      - ./package.json:/package.json
