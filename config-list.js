@@ -44,6 +44,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCxr7xxXKpyQ1NKS2vOVjiUg',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '司波图 聊 電腦硬體',
+    feedID: 'SpotoTsui',
+    homepageURL: 'https://www.youtube.com/channel/UCUWUYyNh8KFS7E6-Q0ajBzQ',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
