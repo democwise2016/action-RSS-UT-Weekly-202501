@@ -3,7 +3,7 @@ let CONFIG = {
   publicURLShorten: `https://ppt.cc/f6Ddzx`,
   thumbnailBorderColor: '8A95A5',
   titleAppend: '[YT+]',
-  title: 'action-RSS-UT-Weekly-202502',
+  title: 'action-RSS-UT-Weekly-202501',
   idAppend: false,
 
   maxDownloadItemPerFeed: 5,
