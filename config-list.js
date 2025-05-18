@@ -50,6 +50,67 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCUWUYyNh8KFS7E6-Q0ajBzQ',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+
+  {
+    title: '阿哲[哲週來尬電]',
+    feedID: 'linzin-news2',
+    homepageURL: 'https://www.youtube.com/channel/UC0oosHZ4k1o-zNT21gg5O7A',
+    feedURL: 'https://www.youtube.com/feeds/videos.xml?channel_id=UC0oosHZ4k1o-zNT21gg5O7A',
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min,
+      (item) => { return (item.title.indexOf('[哲週來尬電') > -1) }
+    ],
+    options: {
+      maxItems: 3
+    }
+  },
+  {
+    title: '叉雞說故事',
+    feedID: 'bbqporkchicken',
+    homepageURL: 'https://www.youtube.com/channel/UCB3pBfnruGVgbP1r5Ya2CEg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '異色檔案說故事',
+    feedID: 'mystery2018',
+    homepageURL: 'https://www.youtube.com/channel/UCVwlKAna1gU30r3s9je06lA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  
+  // ====== 以上 10 個 ========
+
+  {
+    title: '井川一聊動畫',
+    feedID: 'InokawaHajime',
+    homepageURL: 'https://www.youtube.com/channel/UCcHVKeT_5Ta-gTa-sgooQxQ',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '蒼藍鴿聊醫學',
+    feedID: 'bluepigeon0810',
+    homepageURL: 'https://www.youtube.com/channel/UCUn77_F5A65HViL9OEvIpLw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '四處觀察',
+    feedID: 'sichuguancha',
+    homepageURL: 'https://www.youtube.com/channel/UC6OeJCR9gHsJPVyNhXfK4tA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '好味營養師品瑄',
+    feedID: 'dietitian_pink',
+    homepageURL: 'https://www.youtube.com/channel/UCLwFOT4tHGaK9kqXXExhPFQ',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '瑩真律師',
+    feedID: 'LawyerAngela',
+    homepageURL: 'https://www.youtube.com/channel/UCLzWMcpNlhHo0c0yOyWksvQ',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+
+  // ====== 以上 15 個，滿了！！ ========
 ]
 
 // 
