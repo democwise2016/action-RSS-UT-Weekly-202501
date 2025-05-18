@@ -37,6 +37,13 @@ let feedList = [
   },
 
   // ====== 以上 5 個 ========
+
+  {
+    title: '當肉Download 聊 遊戲',
+    feedID: 'adoownload',
+    homepageURL: 'https://www.youtube.com/channel/UCxr7xxXKpyQ1NKS2vOVjiUg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
