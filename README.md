@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=iex9z_Zmzhw
 
-https://democwise2016.github.io/action-RSS-UT/
+https://democwise2016.github.io/action-RSS-UT-Weekly-202501/
 
 https://pulipulichen.github.io/HTML-Summernote-Editor/index.html
 
@@ -9,5 +9,5 @@ https://docs.google.com/spreadsheets/d/1VL7M9rQfIT1yTDx5noSKQFzaEoG2WVUF0k8ODta8
 
 
 ````bash
-git clone --branch main --single-branch --depth 1 https://github.com/democwise2016/action-RSS-UT.git
+git clone --branch main --single-branch --depth 1 https://github.com/democwise2016/action-RSS-UT-Weekly-202501.git
 ````
