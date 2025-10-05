@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[阿哲[哲週來尬電][YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC0oosHZ4k1o-zNT21gg5O7A</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/V7BgdeA-2BRPZx_aI5LfnJZUs8tk_pKKHbEDP9zbqN5mfGsFY7XIFQBZeZ1n9jYaIvPO0zdr=s900-b50-c-k-c0x008A95A5-no-rj</url>
+      <title>阿哲[哲週來尬電][YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC0oosHZ4k1o-zNT21gg5O7A</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UC0oosHZ4k1o-zNT21gg5O7A" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[阿哲[哲週來尬電][YT+]]]></copyright>
+    <itunes:author><![CDATA[阿哲[哲週來尬電][YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UC0oosHZ4k1o-zNT21gg5O7A" target="_blank">https://www.youtube.com/channel/UC0oosHZ4k1o-zNT21gg5O7A</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC0oosHZ4k1o-zNT21gg5O7A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC0oosHZ4k1o-zNT21gg5O7A</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UC0oosHZ4k1o-zNT21gg5O7A" target="_blank">https://www.youtube.com/channel/UC0oosHZ4k1o-zNT21gg5O7A</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC0oosHZ4k1o-zNT21gg5O7A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC0oosHZ4k1o-zNT21gg5O7A</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[阿哲[哲週來尬電][YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/V7BgdeA-2BRPZx_aI5LfnJZUs8tk_pKKHbEDP9zbqN5mfGsFY7XIFQBZeZ1n9jYaIvPO0zdr=s900-b50-c-k-c0x008A95A5-no-rj"/>
+</channel>
+</rss>
